@@ -69104,7 +69104,7 @@ s=p[0]
 h=A.cR(a,k,j).w
 o=A.abn(B.dB,32)
 n=B.c.a0(178.5)
-n=A.a2K(B.f4,A.a([new A.nU(B.a6,k,k,A.iT(k,k,k,new A.eI(B.k,k,o,k,A.a([new A.h1(0,B.bK,A.a9(n,228,0,55),B.F9,50),new A.h1(0,B.bK,A.a9(n,228,0,55),B.EZ,50)],t.sq),k,B.cn),700,k,k,k,700),k),A.atr(0,A.abp(A.agx("assets/images/piyash.png",k,1200,1200),k,k),15,250),A.acw(40,A.rD(A.a([A.l4(A.a([A.nf("Hi,",k,k,A.Ql().$3$color$fontSize$fontWeight(B.i,24,B.b4),k),B.fJ,new A.up(new A.AM("assets/anims/wave_hand.json",k,k,k),k,k,k,k,k,k,k,k,k,50,50,k,k,k,k,k,k,k)],r),B.jY,B.b9,B.aB),B.fJ,A.nf("I'm Mirza Mahmud Hossan",k,k,A.Ql().$3$color$fontSize$fontWeight(B.i,24,B.b4),k),B.fJ,A.nf("Software Developer",k,k,A.Ql().$3$color$fontSize$fontWeight(B.dC,20,B.aQ),k)],r),B.bh),k,k,40,k,k,k)],r),B.ic)
+n=A.a2K(B.f4,A.a([new A.nU(B.a6,k,k,A.iT(k,k,k,new A.eI(B.k,k,o,k,A.a([new A.h1(0,B.bK,A.a9(n,228,0,55),B.F9,50),new A.h1(0,B.bK,A.a9(n,228,0,55),B.EZ,50)],t.sq),k,B.cn),700,k,k,k,700),k),A.atr(0,A.abp(A.agx("assets/images/piyash.png",k,1200,1200),k,k),15,250),A.acw(80,A.rD(A.a([A.l4(A.a([A.nf("Hi,",k,k,A.Ql().$3$color$fontSize$fontWeight(B.i,24,B.b4),k),B.fJ,new A.up(new A.AM("assets/anims/wave_hand.json",k,k,k),k,k,k,k,k,k,k,k,k,50,50,k,k,k,k,k,k,k)],r),B.jY,B.b9,B.aB),B.fJ,A.nf("I'm Mirza Mahmud Hossan",k,k,A.Ql().$3$color$fontSize$fontWeight(B.i,24,B.b4),k),B.fJ,A.nf("Software Developer",k,k,A.Ql().$3$color$fontSize$fontWeight(B.dC,20,B.aQ),k)],r),B.bh),k,k,40,k,k,k)],r),B.ic)
 o=p[1]
 m=A.cR(a,k,j).w
 return new A.vO(!0,A.rD(A.a([i,A.agc(new A.Hf(l.f,B.Go,A.rD(A.a([new A.im(h.a.a,900,n,s),A.iT(k,B.wn,A.a9(204,43,43,43),k,k,o,k,B.zH,m.a.a),A.iT(k,k,B.k,k,900,p[2],k,B.zG,A.cR(a,k,j).w.a.a)],r),B.aM),k))],r),B.aM),B.k,k)}}
